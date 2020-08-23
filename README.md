@@ -2,6 +2,9 @@
 
 Currently learning python from [Automate The Boring Stuff](https://automatetheboringstuff.com)
 
+![Automate The Boring Stuff](https://automatetheboringstuff.com/images/automate2_small_cover.png)
+
+
 ## Chapters Completed
 
 - [Chapter 1](https://automatetheboringstuff.com/2e/chapter1/)
