@@ -1,3 +1,0 @@
-this app will record check in and check outs
-records will have a category, short name, description
-when user checks out, the app will calculate the amount of time on the task
