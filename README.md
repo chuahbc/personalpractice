@@ -5,9 +5,10 @@ Currently learning python from [Automate The Boring Stuff](https://automatethebo
 ## Chapters Completed
 
 - [Chapter 1](https://automatetheboringstuff.com/2e/chapter1/)
+- [Chapter 2](https://automatetheboringstuff.com/2e/chapter2/)
 
 ## Current Chapter
-- [Chapter 2](https://automatetheboringstuff.com/2e/chapter2/)
+- [Chapter 3](https://automatetheboringstuff.com/2e/chapter3/)
 
 
 ## Installation
