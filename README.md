@@ -1,6 +1,6 @@
 # My Personal App
 
-A template of README best practices to make your README simple to understand and easy to use. 
+Currently learning python from [Automate The Boring Stuff](https://automatetheboringstuff.com)
 
 ## Table of Contents
 
