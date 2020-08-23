@@ -16,7 +16,6 @@ Currently learning python from [Automate The Boring Stuff](https://automatethebo
 - [Chapter 4](https://automatetheboringstuff.com/2e/chapter4/)
 
 
-
 ## Support
 
 Please [open an issue](https://github.com/fraction/readme-boilerplate/issues/new) for support.
