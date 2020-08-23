@@ -2,12 +2,13 @@
 
 Currently learning python from [Automate The Boring Stuff](https://automatetheboringstuff.com)
 
-## Table of Contents
+## Chapters Completed
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Support](#support)
-- [Contributing](#contributing)
+- [Chapter 1](https://automatetheboringstuff.com/2e/chapter1/)
+
+## Current Chapter
+- [Chapter 2](https://automatetheboringstuff.com/2e/chapter2/)
+
 
 ## Installation
 
