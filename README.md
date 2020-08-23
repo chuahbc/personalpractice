@@ -1,8 +1,8 @@
 # My Personal Practice
 
-Currently learning python from [Automate The Boring Stuff](https://automatetheboringstuff.com)
+Currently learning python from [Automate The Boring Stuff with Python](https://automatetheboringstuff.com)
 
-![Automate The Boring Stuff](https://automatetheboringstuff.com/images/automate2_small_cover.png)
+![Automate The Boring Stuff with Python](https://automatetheboringstuff.com/images/automate2_small_cover.png)
 
 
 ## Chapters Completed
