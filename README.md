@@ -19,4 +19,4 @@ Currently learning python from [Automate The Boring Stuff with Python](https://a
 
 ## Support
 
-Please [open an issue](https://github.com/fraction/readme-boilerplate/issues/new) for support.
+Please [open an issue](https://github.com/fraction/readme-boilerplate/issues/new) to correct my mistakes.
