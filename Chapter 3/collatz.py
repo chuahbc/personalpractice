@@ -43,7 +43,4 @@ while True:
             break
 
     except KeyboardInterrupt:
-        sys.exit()
-
-
-        
+        sys.exit()   
