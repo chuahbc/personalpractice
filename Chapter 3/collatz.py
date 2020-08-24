@@ -20,17 +20,30 @@
 # 2
 # 1
 
-def collatz(number) :
-    remainder = number % 2
-    if remainder == 0 :
-        number = 2
-        return number
-    else :
-        number = 3 * number + 1
-        return number
+import sys
 
-print ('Input an integer :')
-number = int(input())
+while True:
+    
+    try:
+        def collatz(number) :
+            remainder = number % 2
+            if remainder == 0 :
+                number = 2
+                return number
+            else :
+                number = 3 * number + 1
+                return number
 
-print(collatz(number))
+        try:
+            print ('Input an integer :')
+            number = int(input())
+            print(collatz(number))
+        except:
+            print('Please input an integer!')
+            break
+
+    except KeyboardInterrupt:
+        sys.exit()
+
+
         
