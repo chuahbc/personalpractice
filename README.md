@@ -11,10 +11,11 @@ Currently learning python from [Automate The Boring Stuff with Python](https://a
 - [Chapter 2](https://automatetheboringstuff.com/2e/chapter2/)
 - [Chapter 3](https://automatetheboringstuff.com/2e/chapter3/)
 - [Chapter 4](https://automatetheboringstuff.com/2e/chapter4/)
+- [Chapter 5](https://automatetheboringstuff.com/2e/chapter5/)
 
 ## Current Chapter
 
-- [Chapter 5](https://automatetheboringstuff.com/2e/chapter5/)
+- [Chapter 6](https://automatetheboringstuff.com/2e/chapter6/)
 
 
 ## Support
