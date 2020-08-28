@@ -13,9 +13,13 @@ Currently learning python from [Automate The Boring Stuff with Python](https://a
 - [Chapter 4](https://automatetheboringstuff.com/2e/chapter4/)
 - [Chapter 5](https://automatetheboringstuff.com/2e/chapter5/)
 
-## Current Chapter
+## Current Chapters
 
 - [Chapter 6](https://automatetheboringstuff.com/2e/chapter6/)
+- ZombieDice not completed.
+
+- [Chapter 7](https://automatetheboringstuff.com/2e/chapter7/)
+- Just started.
 
 
 ## Support
