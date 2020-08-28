@@ -21,11 +21,15 @@ tableData = [['apples', 'oranges', 'cherries', 'banana', 'watermelon'],
 # string in tableData[0], colWidths[1] can store the width of the longest string in tableData[1], and so on. You can 
 # then find the largest value in the colWidths list to find out what integer width to pass to the rjust() string method.
 
-reArranged = []
 
-for i in range(len(tableData[0])):
-    for n in tableData:
-        reArranged.append(n[i])
-    print(' '.join(reArranged))
+def printTable(table):
     reArranged = []
+
+    for i in range(len(table[0])):
+        for n in table:
+            reArranged.append(n[i])
+        print(' '.join(reArranged))
+        reArranged = []
+
+printTable(tableData)
 
